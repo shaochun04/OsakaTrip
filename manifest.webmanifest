@@ -1,0 +1,19 @@
+{
+  "name": "大阪家庭旅行 Admin Dashboard",
+  "short_name": "大阪旅行",
+  "description": "2026 大阪家庭旅行離線 Dashboard",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#2f6f9f",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
